@@ -1,3 +1,7 @@
+# Front end only Reddit Clone (with AngularJS)
+
+[a link to this app in action](http://emoreno619.github.io/reddit_deploy/#)
+
 #A New Structure
 
 As our Angular apps grow we'll need a new file structure.  It won't work to put everything in an `app.js` file when we have multiple controllers, modules, directives, filters, services, and more.  
