@@ -2,7 +2,7 @@
 
 [a link to this app in action](http://emoreno619.github.io/reddit_deploy/#)
 
-<img src="./screenshot.png" />
+<img src="./reddit_refactored/screenshot.png" />
 
 
 # reddit_deploy
